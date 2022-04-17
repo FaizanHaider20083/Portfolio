@@ -136,6 +136,9 @@
  #hero-area{
     background-image: url('../img/images.png');
     background-color: black;
+    background-position: revert-layer;
+    background-position-y: top 70vh;
+    background-position-x: left 10vw;
  
   }
 
