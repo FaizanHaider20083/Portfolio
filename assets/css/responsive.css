@@ -109,7 +109,7 @@
   }
 
   .phoneImage{
-    width: 20vw;
+    width: 25vw;
 height: 15vh;
 border: 3px solid white;
 margin-top: -10vh;
@@ -117,7 +117,11 @@ margin-bottom: 7vh;
 margin-left: 60vw;
 background-image: url("../img/pic.png");
 background-size: contain;
+
+background-position-x: center;
+
 background-repeat: no-repeat;
+
   }
   .section-title {
     font-size: 22px;
